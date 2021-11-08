@@ -1,1 +1,3 @@
-# react-typescript-boiler-plate
+# react-typescript-boilerplate
+
+Typescript with SCSS
